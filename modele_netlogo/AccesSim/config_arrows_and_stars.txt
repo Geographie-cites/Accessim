@@ -1,0 +1,1 @@
+green	"circle"	5	red	"star" 18	blue 	"arrow"	15	green	2

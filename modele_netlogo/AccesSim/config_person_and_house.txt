@@ -1,0 +1,1 @@
+black	"circle"	0	orange	"house_transparente" 20	blue 	"person"	15	black	1

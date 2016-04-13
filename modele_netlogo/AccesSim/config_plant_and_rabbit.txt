@@ -1,0 +1,1 @@
+red	"circle"	5	green	"plant" 30	white 	"rabbit"	20	red	2

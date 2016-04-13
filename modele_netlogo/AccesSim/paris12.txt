@@ -1,0 +1,5 @@
+paris12_quartiers.txt
+paris12_services_P.txt
+paris12_rue_P.txt
+paris12_rue_L.txt
+paris12_quartier_pop.txt

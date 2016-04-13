@@ -1,0 +1,1 @@
+grey	"circle"	5	black	"factory_centered" 20	blue 	"car top"	15	grey	2
